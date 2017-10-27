@@ -1,0 +1,9 @@
+c:\users\dimmarinov\documents\visual studio 2017\Projects\TESTPROJECT\TESTPROJECT\bin\Debug\netcoreapp1.1\TESTPROJECT.deps.json
+c:\users\dimmarinov\documents\visual studio 2017\Projects\TESTPROJECT\TESTPROJECT\bin\Debug\netcoreapp1.1\TESTPROJECT.runtimeconfig.json
+c:\users\dimmarinov\documents\visual studio 2017\Projects\TESTPROJECT\TESTPROJECT\bin\Debug\netcoreapp1.1\TESTPROJECT.runtimeconfig.dev.json
+c:\users\dimmarinov\documents\visual studio 2017\Projects\TESTPROJECT\TESTPROJECT\bin\Debug\netcoreapp1.1\TESTPROJECT.dll
+c:\users\dimmarinov\documents\visual studio 2017\Projects\TESTPROJECT\TESTPROJECT\bin\Debug\netcoreapp1.1\TESTPROJECT.pdb
+c:\users\dimmarinov\documents\visual studio 2017\Projects\TESTPROJECT\TESTPROJECT\obj\Debug\netcoreapp1.1\TESTPROJECT.csprojResolveAssemblyReference.cache
+c:\users\dimmarinov\documents\visual studio 2017\Projects\TESTPROJECT\TESTPROJECT\obj\Debug\netcoreapp1.1\TESTPROJECT.AssemblyInfo.cs
+c:\users\dimmarinov\documents\visual studio 2017\Projects\TESTPROJECT\TESTPROJECT\obj\Debug\netcoreapp1.1\TESTPROJECT.dll
+c:\users\dimmarinov\documents\visual studio 2017\Projects\TESTPROJECT\TESTPROJECT\obj\Debug\netcoreapp1.1\TESTPROJECT.pdb
